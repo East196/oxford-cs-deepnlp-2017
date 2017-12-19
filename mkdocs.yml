@@ -1,0 +1,8 @@
+site_name: 牛津大学xDeepMind 自然语言处理课程笔记
+theme: readthedocs
+pages:
+- 关于课程: index.md
+- 简介: lecture1a.md
+- 深度神经网络是我们的朋友: lecture1b.md
+- 词语级别的语义: lecture2a.md
+- 实践课概览: lecture2b.md
